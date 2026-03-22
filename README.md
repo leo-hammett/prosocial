@@ -2,6 +2,8 @@
 
 **An experiment in AI-guided relationship intelligence.**
 
+N.B. This is incomplete for now.
+
 > Be the friend you want to have
 
 We believe technology should help us be more human, not less. Prosocial uses AI and interaction data to surface insights that help you become a better friend—transforming the overwhelming complexity of maintaining relationships into an elegant, actionable experience.
